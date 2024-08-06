@@ -1,0 +1,5 @@
+project_id = "your-gcp-project-id"
+region     = "us-central1"
+zone       = "us-central1-a"
+db_password = "your-db-password"
+gke_db_password = "your-gke-db-password"
